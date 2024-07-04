@@ -1,0 +1,7 @@
+C:\Users\arjit\source\repos\MinimumWindowSubstring\MinimumWindowSubstring\bin\Debug\MinimumWindowSubstring.exe.config
+C:\Users\arjit\source\repos\MinimumWindowSubstring\MinimumWindowSubstring\bin\Debug\MinimumWindowSubstring.exe
+C:\Users\arjit\source\repos\MinimumWindowSubstring\MinimumWindowSubstring\bin\Debug\MinimumWindowSubstring.pdb
+C:\Users\arjit\source\repos\MinimumWindowSubstring\MinimumWindowSubstring\obj\Debug\MinimumWindowSubstring.csproj.AssemblyReference.cache
+C:\Users\arjit\source\repos\MinimumWindowSubstring\MinimumWindowSubstring\obj\Debug\MinimumWindowSubstring.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\MinimumWindowSubstring\MinimumWindowSubstring\obj\Debug\MinimumWindowSubstring.exe
+C:\Users\arjit\source\repos\MinimumWindowSubstring\MinimumWindowSubstring\obj\Debug\MinimumWindowSubstring.pdb

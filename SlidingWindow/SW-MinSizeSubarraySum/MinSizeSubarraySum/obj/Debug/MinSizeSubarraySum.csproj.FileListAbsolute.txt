@@ -1,0 +1,7 @@
+C:\Users\arjit\source\repos\MinSizeSubarraySum\MinSizeSubarraySum\bin\Debug\MinSizeSubarraySum.exe.config
+C:\Users\arjit\source\repos\MinSizeSubarraySum\MinSizeSubarraySum\bin\Debug\MinSizeSubarraySum.exe
+C:\Users\arjit\source\repos\MinSizeSubarraySum\MinSizeSubarraySum\bin\Debug\MinSizeSubarraySum.pdb
+C:\Users\arjit\source\repos\MinSizeSubarraySum\MinSizeSubarraySum\obj\Debug\MinSizeSubarraySum.csproj.AssemblyReference.cache
+C:\Users\arjit\source\repos\MinSizeSubarraySum\MinSizeSubarraySum\obj\Debug\MinSizeSubarraySum.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\MinSizeSubarraySum\MinSizeSubarraySum\obj\Debug\MinSizeSubarraySum.exe
+C:\Users\arjit\source\repos\MinSizeSubarraySum\MinSizeSubarraySum\obj\Debug\MinSizeSubarraySum.pdb

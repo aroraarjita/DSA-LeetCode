@@ -1,0 +1,7 @@
+C:\Users\arjit\source\repos\MinKFlipsRequired\MinKFlipsRequired\bin\Debug\MinKFlipsRequired.exe.config
+C:\Users\arjit\source\repos\MinKFlipsRequired\MinKFlipsRequired\bin\Debug\MinKFlipsRequired.exe
+C:\Users\arjit\source\repos\MinKFlipsRequired\MinKFlipsRequired\bin\Debug\MinKFlipsRequired.pdb
+C:\Users\arjit\source\repos\MinKFlipsRequired\MinKFlipsRequired\obj\Debug\MinKFlipsRequired.csproj.AssemblyReference.cache
+C:\Users\arjit\source\repos\MinKFlipsRequired\MinKFlipsRequired\obj\Debug\MinKFlipsRequired.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\MinKFlipsRequired\MinKFlipsRequired\obj\Debug\MinKFlipsRequired.exe
+C:\Users\arjit\source\repos\MinKFlipsRequired\MinKFlipsRequired\obj\Debug\MinKFlipsRequired.pdb

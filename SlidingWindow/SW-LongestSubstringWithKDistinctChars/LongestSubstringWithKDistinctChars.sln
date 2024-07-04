@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringWithKDistinctChars", "LongestSubstringWithKDistinctChars\LongestSubstringWithKDistinctChars.csproj", "{22734D12-9B5C-4A5F-8C36-4C73FC0201D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22734D12-9B5C-4A5F-8C36-4C73FC0201D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22734D12-9B5C-4A5F-8C36-4C73FC0201D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22734D12-9B5C-4A5F-8C36-4C73FC0201D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22734D12-9B5C-4A5F-8C36-4C73FC0201D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14AA2BEE-D7F2-4443-A5D8-E2009A2B5F47}
+	EndGlobalSection
+EndGlobal

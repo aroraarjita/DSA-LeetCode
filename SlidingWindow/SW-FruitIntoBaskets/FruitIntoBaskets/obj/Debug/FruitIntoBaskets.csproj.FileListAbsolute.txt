@@ -1,0 +1,7 @@
+C:\Users\arjit\source\repos\FruitIntoBaskets\FruitIntoBaskets\bin\Debug\FruitIntoBaskets.exe.config
+C:\Users\arjit\source\repos\FruitIntoBaskets\FruitIntoBaskets\bin\Debug\FruitIntoBaskets.exe
+C:\Users\arjit\source\repos\FruitIntoBaskets\FruitIntoBaskets\bin\Debug\FruitIntoBaskets.pdb
+C:\Users\arjit\source\repos\FruitIntoBaskets\FruitIntoBaskets\obj\Debug\FruitIntoBaskets.csproj.AssemblyReference.cache
+C:\Users\arjit\source\repos\FruitIntoBaskets\FruitIntoBaskets\obj\Debug\FruitIntoBaskets.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\FruitIntoBaskets\FruitIntoBaskets\obj\Debug\FruitIntoBaskets.exe
+C:\Users\arjit\source\repos\FruitIntoBaskets\FruitIntoBaskets\obj\Debug\FruitIntoBaskets.pdb

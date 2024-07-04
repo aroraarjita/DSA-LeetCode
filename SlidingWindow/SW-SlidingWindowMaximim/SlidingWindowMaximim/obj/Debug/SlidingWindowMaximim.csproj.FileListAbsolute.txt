@@ -1,0 +1,7 @@
+C:\Users\arjit\source\repos\SlidingWindowMaximim\SlidingWindowMaximim\bin\Debug\SlidingWindowMaximim.exe.config
+C:\Users\arjit\source\repos\SlidingWindowMaximim\SlidingWindowMaximim\bin\Debug\SlidingWindowMaximim.exe
+C:\Users\arjit\source\repos\SlidingWindowMaximim\SlidingWindowMaximim\bin\Debug\SlidingWindowMaximim.pdb
+C:\Users\arjit\source\repos\SlidingWindowMaximim\SlidingWindowMaximim\obj\Debug\SlidingWindowMaximim.csproj.AssemblyReference.cache
+C:\Users\arjit\source\repos\SlidingWindowMaximim\SlidingWindowMaximim\obj\Debug\SlidingWindowMaximim.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\SlidingWindowMaximim\SlidingWindowMaximim\obj\Debug\SlidingWindowMaximim.exe
+C:\Users\arjit\source\repos\SlidingWindowMaximim\SlidingWindowMaximim\obj\Debug\SlidingWindowMaximim.pdb

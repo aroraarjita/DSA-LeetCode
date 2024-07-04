@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\FindKClosestElements\FindKClosestElements\bin\Debug\net8.0\FindKClosestElements.exe
+C:\Users\arjit\source\repos\FindKClosestElements\FindKClosestElements\bin\Debug\net8.0\FindKClosestElements.deps.json
+C:\Users\arjit\source\repos\FindKClosestElements\FindKClosestElements\bin\Debug\net8.0\FindKClosestElements.runtimeconfig.json
+C:\Users\arjit\source\repos\FindKClosestElements\FindKClosestElements\bin\Debug\net8.0\FindKClosestElements.dll
+C:\Users\arjit\source\repos\FindKClosestElements\FindKClosestElements\bin\Debug\net8.0\FindKClosestElements.pdb
+C:\Users\arjit\source\repos\FindKClosestElements\FindKClosestElements\obj\Debug\net8.0\FindKClosestElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\FindKClosestElements\FindKClosestElements\obj\Debug\net8.0\FindKClosestElements.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\FindKClosestElements\FindKClosestElements\obj\Debug\net8.0\FindKClosestElements.AssemblyInfo.cs
+C:\Users\arjit\source\repos\FindKClosestElements\FindKClosestElements\obj\Debug\net8.0\FindKClosestElements.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\FindKClosestElements\FindKClosestElements\obj\Debug\net8.0\FindKClosestElements.dll
+C:\Users\arjit\source\repos\FindKClosestElements\FindKClosestElements\obj\Debug\net8.0\refint\FindKClosestElements.dll
+C:\Users\arjit\source\repos\FindKClosestElements\FindKClosestElements\obj\Debug\net8.0\FindKClosestElements.pdb
+C:\Users\arjit\source\repos\FindKClosestElements\FindKClosestElements\obj\Debug\net8.0\FindKClosestElements.genruntimeconfig.cache
+C:\Users\arjit\source\repos\FindKClosestElements\FindKClosestElements\obj\Debug\net8.0\ref\FindKClosestElements.dll
