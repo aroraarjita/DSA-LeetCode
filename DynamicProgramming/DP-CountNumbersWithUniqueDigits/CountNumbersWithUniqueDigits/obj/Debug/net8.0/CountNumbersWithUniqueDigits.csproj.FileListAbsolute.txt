@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\DP-CountNumbersWithUniqueDigits\CountNumbersWithUniqueDigits\bin\Debug\net8.0\CountNumbersWithUniqueDigits.exe
+C:\Users\arjit\source\repos\DP-CountNumbersWithUniqueDigits\CountNumbersWithUniqueDigits\bin\Debug\net8.0\CountNumbersWithUniqueDigits.deps.json
+C:\Users\arjit\source\repos\DP-CountNumbersWithUniqueDigits\CountNumbersWithUniqueDigits\bin\Debug\net8.0\CountNumbersWithUniqueDigits.runtimeconfig.json
+C:\Users\arjit\source\repos\DP-CountNumbersWithUniqueDigits\CountNumbersWithUniqueDigits\bin\Debug\net8.0\CountNumbersWithUniqueDigits.dll
+C:\Users\arjit\source\repos\DP-CountNumbersWithUniqueDigits\CountNumbersWithUniqueDigits\bin\Debug\net8.0\CountNumbersWithUniqueDigits.pdb
+C:\Users\arjit\source\repos\DP-CountNumbersWithUniqueDigits\CountNumbersWithUniqueDigits\obj\Debug\net8.0\CountNumbersWithUniqueDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\DP-CountNumbersWithUniqueDigits\CountNumbersWithUniqueDigits\obj\Debug\net8.0\CountNumbersWithUniqueDigits.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\DP-CountNumbersWithUniqueDigits\CountNumbersWithUniqueDigits\obj\Debug\net8.0\CountNumbersWithUniqueDigits.AssemblyInfo.cs
+C:\Users\arjit\source\repos\DP-CountNumbersWithUniqueDigits\CountNumbersWithUniqueDigits\obj\Debug\net8.0\CountNumbersWithUniqueDigits.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\DP-CountNumbersWithUniqueDigits\CountNumbersWithUniqueDigits\obj\Debug\net8.0\CountNumbersWithUniqueDigits.dll
+C:\Users\arjit\source\repos\DP-CountNumbersWithUniqueDigits\CountNumbersWithUniqueDigits\obj\Debug\net8.0\refint\CountNumbersWithUniqueDigits.dll
+C:\Users\arjit\source\repos\DP-CountNumbersWithUniqueDigits\CountNumbersWithUniqueDigits\obj\Debug\net8.0\CountNumbersWithUniqueDigits.pdb
+C:\Users\arjit\source\repos\DP-CountNumbersWithUniqueDigits\CountNumbersWithUniqueDigits\obj\Debug\net8.0\CountNumbersWithUniqueDigits.genruntimeconfig.cache
+C:\Users\arjit\source\repos\DP-CountNumbersWithUniqueDigits\CountNumbersWithUniqueDigits\obj\Debug\net8.0\ref\CountNumbersWithUniqueDigits.dll
