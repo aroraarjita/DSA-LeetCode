@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\ReverseAnAray\ReverseAnAray\bin\Debug\net8.0\ReverseAnAray.exe
+C:\Users\arjit\source\repos\ReverseAnAray\ReverseAnAray\bin\Debug\net8.0\ReverseAnAray.deps.json
+C:\Users\arjit\source\repos\ReverseAnAray\ReverseAnAray\bin\Debug\net8.0\ReverseAnAray.runtimeconfig.json
+C:\Users\arjit\source\repos\ReverseAnAray\ReverseAnAray\bin\Debug\net8.0\ReverseAnAray.dll
+C:\Users\arjit\source\repos\ReverseAnAray\ReverseAnAray\bin\Debug\net8.0\ReverseAnAray.pdb
+C:\Users\arjit\source\repos\ReverseAnAray\ReverseAnAray\obj\Debug\net8.0\ReverseAnAray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\ReverseAnAray\ReverseAnAray\obj\Debug\net8.0\ReverseAnAray.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\ReverseAnAray\ReverseAnAray\obj\Debug\net8.0\ReverseAnAray.AssemblyInfo.cs
+C:\Users\arjit\source\repos\ReverseAnAray\ReverseAnAray\obj\Debug\net8.0\ReverseAnAray.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\ReverseAnAray\ReverseAnAray\obj\Debug\net8.0\ReverseAnAray.dll
+C:\Users\arjit\source\repos\ReverseAnAray\ReverseAnAray\obj\Debug\net8.0\refint\ReverseAnAray.dll
+C:\Users\arjit\source\repos\ReverseAnAray\ReverseAnAray\obj\Debug\net8.0\ReverseAnAray.pdb
+C:\Users\arjit\source\repos\ReverseAnAray\ReverseAnAray\obj\Debug\net8.0\ReverseAnAray.genruntimeconfig.cache
+C:\Users\arjit\source\repos\ReverseAnAray\ReverseAnAray\obj\Debug\net8.0\ref\ReverseAnAray.dll
