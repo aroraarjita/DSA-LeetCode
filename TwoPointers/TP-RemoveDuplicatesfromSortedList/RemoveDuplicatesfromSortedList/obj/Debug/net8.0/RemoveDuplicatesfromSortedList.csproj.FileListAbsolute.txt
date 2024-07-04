@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\RemoveDuplicatesfromSortedList\RemoveDuplicatesfromSortedList\bin\Debug\net8.0\RemoveDuplicatesfromSortedList.exe
+C:\Users\arjit\source\repos\RemoveDuplicatesfromSortedList\RemoveDuplicatesfromSortedList\bin\Debug\net8.0\RemoveDuplicatesfromSortedList.deps.json
+C:\Users\arjit\source\repos\RemoveDuplicatesfromSortedList\RemoveDuplicatesfromSortedList\bin\Debug\net8.0\RemoveDuplicatesfromSortedList.runtimeconfig.json
+C:\Users\arjit\source\repos\RemoveDuplicatesfromSortedList\RemoveDuplicatesfromSortedList\bin\Debug\net8.0\RemoveDuplicatesfromSortedList.dll
+C:\Users\arjit\source\repos\RemoveDuplicatesfromSortedList\RemoveDuplicatesfromSortedList\bin\Debug\net8.0\RemoveDuplicatesfromSortedList.pdb
+C:\Users\arjit\source\repos\RemoveDuplicatesfromSortedList\RemoveDuplicatesfromSortedList\obj\Debug\net8.0\RemoveDuplicatesfromSortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\RemoveDuplicatesfromSortedList\RemoveDuplicatesfromSortedList\obj\Debug\net8.0\RemoveDuplicatesfromSortedList.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\RemoveDuplicatesfromSortedList\RemoveDuplicatesfromSortedList\obj\Debug\net8.0\RemoveDuplicatesfromSortedList.AssemblyInfo.cs
+C:\Users\arjit\source\repos\RemoveDuplicatesfromSortedList\RemoveDuplicatesfromSortedList\obj\Debug\net8.0\RemoveDuplicatesfromSortedList.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\RemoveDuplicatesfromSortedList\RemoveDuplicatesfromSortedList\obj\Debug\net8.0\RemoveDuplicatesfromSortedList.dll
+C:\Users\arjit\source\repos\RemoveDuplicatesfromSortedList\RemoveDuplicatesfromSortedList\obj\Debug\net8.0\refint\RemoveDuplicatesfromSortedList.dll
+C:\Users\arjit\source\repos\RemoveDuplicatesfromSortedList\RemoveDuplicatesfromSortedList\obj\Debug\net8.0\RemoveDuplicatesfromSortedList.pdb
+C:\Users\arjit\source\repos\RemoveDuplicatesfromSortedList\RemoveDuplicatesfromSortedList\obj\Debug\net8.0\RemoveDuplicatesfromSortedList.genruntimeconfig.cache
+C:\Users\arjit\source\repos\RemoveDuplicatesfromSortedList\RemoveDuplicatesfromSortedList\obj\Debug\net8.0\ref\RemoveDuplicatesfromSortedList.dll

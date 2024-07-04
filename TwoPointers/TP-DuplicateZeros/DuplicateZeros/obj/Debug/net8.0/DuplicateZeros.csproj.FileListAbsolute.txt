@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\DuplicateZeros\DuplicateZeros\bin\Debug\net8.0\DuplicateZeros.exe
+C:\Users\arjit\source\repos\DuplicateZeros\DuplicateZeros\bin\Debug\net8.0\DuplicateZeros.deps.json
+C:\Users\arjit\source\repos\DuplicateZeros\DuplicateZeros\bin\Debug\net8.0\DuplicateZeros.runtimeconfig.json
+C:\Users\arjit\source\repos\DuplicateZeros\DuplicateZeros\bin\Debug\net8.0\DuplicateZeros.dll
+C:\Users\arjit\source\repos\DuplicateZeros\DuplicateZeros\bin\Debug\net8.0\DuplicateZeros.pdb
+C:\Users\arjit\source\repos\DuplicateZeros\DuplicateZeros\obj\Debug\net8.0\DuplicateZeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\DuplicateZeros\DuplicateZeros\obj\Debug\net8.0\DuplicateZeros.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\DuplicateZeros\DuplicateZeros\obj\Debug\net8.0\DuplicateZeros.AssemblyInfo.cs
+C:\Users\arjit\source\repos\DuplicateZeros\DuplicateZeros\obj\Debug\net8.0\DuplicateZeros.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\DuplicateZeros\DuplicateZeros\obj\Debug\net8.0\DuplicateZeros.dll
+C:\Users\arjit\source\repos\DuplicateZeros\DuplicateZeros\obj\Debug\net8.0\refint\DuplicateZeros.dll
+C:\Users\arjit\source\repos\DuplicateZeros\DuplicateZeros\obj\Debug\net8.0\DuplicateZeros.pdb
+C:\Users\arjit\source\repos\DuplicateZeros\DuplicateZeros\obj\Debug\net8.0\DuplicateZeros.genruntimeconfig.cache
+C:\Users\arjit\source\repos\DuplicateZeros\DuplicateZeros\obj\Debug\net8.0\ref\DuplicateZeros.dll

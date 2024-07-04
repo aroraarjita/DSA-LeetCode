@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\FlippinganImage\FlippinganImage\bin\Debug\net8.0\FlippinganImage.exe
+C:\Users\arjit\source\repos\FlippinganImage\FlippinganImage\bin\Debug\net8.0\FlippinganImage.deps.json
+C:\Users\arjit\source\repos\FlippinganImage\FlippinganImage\bin\Debug\net8.0\FlippinganImage.runtimeconfig.json
+C:\Users\arjit\source\repos\FlippinganImage\FlippinganImage\bin\Debug\net8.0\FlippinganImage.dll
+C:\Users\arjit\source\repos\FlippinganImage\FlippinganImage\bin\Debug\net8.0\FlippinganImage.pdb
+C:\Users\arjit\source\repos\FlippinganImage\FlippinganImage\obj\Debug\net8.0\FlippinganImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\FlippinganImage\FlippinganImage\obj\Debug\net8.0\FlippinganImage.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\FlippinganImage\FlippinganImage\obj\Debug\net8.0\FlippinganImage.AssemblyInfo.cs
+C:\Users\arjit\source\repos\FlippinganImage\FlippinganImage\obj\Debug\net8.0\FlippinganImage.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\FlippinganImage\FlippinganImage\obj\Debug\net8.0\FlippinganImage.dll
+C:\Users\arjit\source\repos\FlippinganImage\FlippinganImage\obj\Debug\net8.0\refint\FlippinganImage.dll
+C:\Users\arjit\source\repos\FlippinganImage\FlippinganImage\obj\Debug\net8.0\FlippinganImage.pdb
+C:\Users\arjit\source\repos\FlippinganImage\FlippinganImage\obj\Debug\net8.0\FlippinganImage.genruntimeconfig.cache
+C:\Users\arjit\source\repos\FlippinganImage\FlippinganImage\obj\Debug\net8.0\ref\FlippinganImage.dll

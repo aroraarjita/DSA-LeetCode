@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\3SumClosest\3SumClosest\bin\Debug\net8.0\3SumClosest.exe
+C:\Users\arjit\source\repos\3SumClosest\3SumClosest\bin\Debug\net8.0\3SumClosest.deps.json
+C:\Users\arjit\source\repos\3SumClosest\3SumClosest\bin\Debug\net8.0\3SumClosest.runtimeconfig.json
+C:\Users\arjit\source\repos\3SumClosest\3SumClosest\bin\Debug\net8.0\3SumClosest.dll
+C:\Users\arjit\source\repos\3SumClosest\3SumClosest\bin\Debug\net8.0\3SumClosest.pdb
+C:\Users\arjit\source\repos\3SumClosest\3SumClosest\obj\Debug\net8.0\3SumClosest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\3SumClosest\3SumClosest\obj\Debug\net8.0\3SumClosest.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\3SumClosest\3SumClosest\obj\Debug\net8.0\3SumClosest.AssemblyInfo.cs
+C:\Users\arjit\source\repos\3SumClosest\3SumClosest\obj\Debug\net8.0\3SumClosest.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\3SumClosest\3SumClosest\obj\Debug\net8.0\3SumClosest.dll
+C:\Users\arjit\source\repos\3SumClosest\3SumClosest\obj\Debug\net8.0\refint\3SumClosest.dll
+C:\Users\arjit\source\repos\3SumClosest\3SumClosest\obj\Debug\net8.0\3SumClosest.pdb
+C:\Users\arjit\source\repos\3SumClosest\3SumClosest\obj\Debug\net8.0\3SumClosest.genruntimeconfig.cache
+C:\Users\arjit\source\repos\3SumClosest\3SumClosest\obj\Debug\net8.0\ref\3SumClosest.dll

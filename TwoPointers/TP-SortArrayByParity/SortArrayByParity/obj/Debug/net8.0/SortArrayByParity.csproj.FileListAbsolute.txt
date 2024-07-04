@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\SortArrayByParity\SortArrayByParity\bin\Debug\net8.0\SortArrayByParity.exe
+C:\Users\arjit\source\repos\SortArrayByParity\SortArrayByParity\bin\Debug\net8.0\SortArrayByParity.deps.json
+C:\Users\arjit\source\repos\SortArrayByParity\SortArrayByParity\bin\Debug\net8.0\SortArrayByParity.runtimeconfig.json
+C:\Users\arjit\source\repos\SortArrayByParity\SortArrayByParity\bin\Debug\net8.0\SortArrayByParity.dll
+C:\Users\arjit\source\repos\SortArrayByParity\SortArrayByParity\bin\Debug\net8.0\SortArrayByParity.pdb
+C:\Users\arjit\source\repos\SortArrayByParity\SortArrayByParity\obj\Debug\net8.0\SortArrayByParity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\SortArrayByParity\SortArrayByParity\obj\Debug\net8.0\SortArrayByParity.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\SortArrayByParity\SortArrayByParity\obj\Debug\net8.0\SortArrayByParity.AssemblyInfo.cs
+C:\Users\arjit\source\repos\SortArrayByParity\SortArrayByParity\obj\Debug\net8.0\SortArrayByParity.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\SortArrayByParity\SortArrayByParity\obj\Debug\net8.0\SortArrayByParity.dll
+C:\Users\arjit\source\repos\SortArrayByParity\SortArrayByParity\obj\Debug\net8.0\refint\SortArrayByParity.dll
+C:\Users\arjit\source\repos\SortArrayByParity\SortArrayByParity\obj\Debug\net8.0\SortArrayByParity.pdb
+C:\Users\arjit\source\repos\SortArrayByParity\SortArrayByParity\obj\Debug\net8.0\SortArrayByParity.genruntimeconfig.cache
+C:\Users\arjit\source\repos\SortArrayByParity\SortArrayByParity\obj\Debug\net8.0\ref\SortArrayByParity.dll

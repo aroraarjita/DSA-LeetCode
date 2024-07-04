@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\SumofSquareNumbers\SumofSquareNumbers\bin\Debug\net8.0\SumofSquareNumbers.exe
+C:\Users\arjit\source\repos\SumofSquareNumbers\SumofSquareNumbers\bin\Debug\net8.0\SumofSquareNumbers.deps.json
+C:\Users\arjit\source\repos\SumofSquareNumbers\SumofSquareNumbers\bin\Debug\net8.0\SumofSquareNumbers.runtimeconfig.json
+C:\Users\arjit\source\repos\SumofSquareNumbers\SumofSquareNumbers\bin\Debug\net8.0\SumofSquareNumbers.dll
+C:\Users\arjit\source\repos\SumofSquareNumbers\SumofSquareNumbers\bin\Debug\net8.0\SumofSquareNumbers.pdb
+C:\Users\arjit\source\repos\SumofSquareNumbers\SumofSquareNumbers\obj\Debug\net8.0\SumofSquareNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\SumofSquareNumbers\SumofSquareNumbers\obj\Debug\net8.0\SumofSquareNumbers.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\SumofSquareNumbers\SumofSquareNumbers\obj\Debug\net8.0\SumofSquareNumbers.AssemblyInfo.cs
+C:\Users\arjit\source\repos\SumofSquareNumbers\SumofSquareNumbers\obj\Debug\net8.0\SumofSquareNumbers.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\SumofSquareNumbers\SumofSquareNumbers\obj\Debug\net8.0\SumofSquareNumbers.dll
+C:\Users\arjit\source\repos\SumofSquareNumbers\SumofSquareNumbers\obj\Debug\net8.0\refint\SumofSquareNumbers.dll
+C:\Users\arjit\source\repos\SumofSquareNumbers\SumofSquareNumbers\obj\Debug\net8.0\SumofSquareNumbers.pdb
+C:\Users\arjit\source\repos\SumofSquareNumbers\SumofSquareNumbers\obj\Debug\net8.0\SumofSquareNumbers.genruntimeconfig.cache
+C:\Users\arjit\source\repos\SumofSquareNumbers\SumofSquareNumbers\obj\Debug\net8.0\ref\SumofSquareNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\CountBinarySubstrings\CountBinarySubstrings\bin\Debug\net8.0\CountBinarySubstrings.exe
+C:\Users\arjit\source\repos\CountBinarySubstrings\CountBinarySubstrings\bin\Debug\net8.0\CountBinarySubstrings.deps.json
+C:\Users\arjit\source\repos\CountBinarySubstrings\CountBinarySubstrings\bin\Debug\net8.0\CountBinarySubstrings.runtimeconfig.json
+C:\Users\arjit\source\repos\CountBinarySubstrings\CountBinarySubstrings\bin\Debug\net8.0\CountBinarySubstrings.dll
+C:\Users\arjit\source\repos\CountBinarySubstrings\CountBinarySubstrings\bin\Debug\net8.0\CountBinarySubstrings.pdb
+C:\Users\arjit\source\repos\CountBinarySubstrings\CountBinarySubstrings\obj\Debug\net8.0\CountBinarySubstrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\CountBinarySubstrings\CountBinarySubstrings\obj\Debug\net8.0\CountBinarySubstrings.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\CountBinarySubstrings\CountBinarySubstrings\obj\Debug\net8.0\CountBinarySubstrings.AssemblyInfo.cs
+C:\Users\arjit\source\repos\CountBinarySubstrings\CountBinarySubstrings\obj\Debug\net8.0\CountBinarySubstrings.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\CountBinarySubstrings\CountBinarySubstrings\obj\Debug\net8.0\CountBinarySubstrings.dll
+C:\Users\arjit\source\repos\CountBinarySubstrings\CountBinarySubstrings\obj\Debug\net8.0\refint\CountBinarySubstrings.dll
+C:\Users\arjit\source\repos\CountBinarySubstrings\CountBinarySubstrings\obj\Debug\net8.0\CountBinarySubstrings.pdb
+C:\Users\arjit\source\repos\CountBinarySubstrings\CountBinarySubstrings\obj\Debug\net8.0\CountBinarySubstrings.genruntimeconfig.cache
+C:\Users\arjit\source\repos\CountBinarySubstrings\CountBinarySubstrings\obj\Debug\net8.0\ref\CountBinarySubstrings.dll

@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\ReverseOnlyLetters\ReverseOnlyLetters\bin\Debug\net8.0\ReverseOnlyLetters.exe
+C:\Users\arjit\source\repos\ReverseOnlyLetters\ReverseOnlyLetters\bin\Debug\net8.0\ReverseOnlyLetters.deps.json
+C:\Users\arjit\source\repos\ReverseOnlyLetters\ReverseOnlyLetters\bin\Debug\net8.0\ReverseOnlyLetters.runtimeconfig.json
+C:\Users\arjit\source\repos\ReverseOnlyLetters\ReverseOnlyLetters\bin\Debug\net8.0\ReverseOnlyLetters.dll
+C:\Users\arjit\source\repos\ReverseOnlyLetters\ReverseOnlyLetters\bin\Debug\net8.0\ReverseOnlyLetters.pdb
+C:\Users\arjit\source\repos\ReverseOnlyLetters\ReverseOnlyLetters\obj\Debug\net8.0\ReverseOnlyLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\ReverseOnlyLetters\ReverseOnlyLetters\obj\Debug\net8.0\ReverseOnlyLetters.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\ReverseOnlyLetters\ReverseOnlyLetters\obj\Debug\net8.0\ReverseOnlyLetters.AssemblyInfo.cs
+C:\Users\arjit\source\repos\ReverseOnlyLetters\ReverseOnlyLetters\obj\Debug\net8.0\ReverseOnlyLetters.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\ReverseOnlyLetters\ReverseOnlyLetters\obj\Debug\net8.0\ReverseOnlyLetters.dll
+C:\Users\arjit\source\repos\ReverseOnlyLetters\ReverseOnlyLetters\obj\Debug\net8.0\refint\ReverseOnlyLetters.dll
+C:\Users\arjit\source\repos\ReverseOnlyLetters\ReverseOnlyLetters\obj\Debug\net8.0\ReverseOnlyLetters.pdb
+C:\Users\arjit\source\repos\ReverseOnlyLetters\ReverseOnlyLetters\obj\Debug\net8.0\ReverseOnlyLetters.genruntimeconfig.cache
+C:\Users\arjit\source\repos\ReverseOnlyLetters\ReverseOnlyLetters\obj\Debug\net8.0\ref\ReverseOnlyLetters.dll

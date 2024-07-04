@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\3SumSmaller\3SumSmaller\bin\Debug\net8.0\3SumSmaller.exe
+C:\Users\arjit\source\repos\3SumSmaller\3SumSmaller\bin\Debug\net8.0\3SumSmaller.deps.json
+C:\Users\arjit\source\repos\3SumSmaller\3SumSmaller\bin\Debug\net8.0\3SumSmaller.runtimeconfig.json
+C:\Users\arjit\source\repos\3SumSmaller\3SumSmaller\bin\Debug\net8.0\3SumSmaller.dll
+C:\Users\arjit\source\repos\3SumSmaller\3SumSmaller\bin\Debug\net8.0\3SumSmaller.pdb
+C:\Users\arjit\source\repos\3SumSmaller\3SumSmaller\obj\Debug\net8.0\3SumSmaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\3SumSmaller\3SumSmaller\obj\Debug\net8.0\3SumSmaller.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\3SumSmaller\3SumSmaller\obj\Debug\net8.0\3SumSmaller.AssemblyInfo.cs
+C:\Users\arjit\source\repos\3SumSmaller\3SumSmaller\obj\Debug\net8.0\3SumSmaller.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\3SumSmaller\3SumSmaller\obj\Debug\net8.0\3SumSmaller.dll
+C:\Users\arjit\source\repos\3SumSmaller\3SumSmaller\obj\Debug\net8.0\refint\3SumSmaller.dll
+C:\Users\arjit\source\repos\3SumSmaller\3SumSmaller\obj\Debug\net8.0\3SumSmaller.pdb
+C:\Users\arjit\source\repos\3SumSmaller\3SumSmaller\obj\Debug\net8.0\3SumSmaller.genruntimeconfig.cache
+C:\Users\arjit\source\repos\3SumSmaller\3SumSmaller\obj\Debug\net8.0\ref\3SumSmaller.dll

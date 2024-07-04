@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\ExpressiveWords\ExpressiveWords\bin\Debug\net8.0\ExpressiveWords.exe
+C:\Users\arjit\source\repos\ExpressiveWords\ExpressiveWords\bin\Debug\net8.0\ExpressiveWords.deps.json
+C:\Users\arjit\source\repos\ExpressiveWords\ExpressiveWords\bin\Debug\net8.0\ExpressiveWords.runtimeconfig.json
+C:\Users\arjit\source\repos\ExpressiveWords\ExpressiveWords\bin\Debug\net8.0\ExpressiveWords.dll
+C:\Users\arjit\source\repos\ExpressiveWords\ExpressiveWords\bin\Debug\net8.0\ExpressiveWords.pdb
+C:\Users\arjit\source\repos\ExpressiveWords\ExpressiveWords\obj\Debug\net8.0\ExpressiveWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\ExpressiveWords\ExpressiveWords\obj\Debug\net8.0\ExpressiveWords.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\ExpressiveWords\ExpressiveWords\obj\Debug\net8.0\ExpressiveWords.AssemblyInfo.cs
+C:\Users\arjit\source\repos\ExpressiveWords\ExpressiveWords\obj\Debug\net8.0\ExpressiveWords.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\ExpressiveWords\ExpressiveWords\obj\Debug\net8.0\ExpressiveWords.dll
+C:\Users\arjit\source\repos\ExpressiveWords\ExpressiveWords\obj\Debug\net8.0\refint\ExpressiveWords.dll
+C:\Users\arjit\source\repos\ExpressiveWords\ExpressiveWords\obj\Debug\net8.0\ExpressiveWords.pdb
+C:\Users\arjit\source\repos\ExpressiveWords\ExpressiveWords\obj\Debug\net8.0\ExpressiveWords.genruntimeconfig.cache
+C:\Users\arjit\source\repos\ExpressiveWords\ExpressiveWords\obj\Debug\net8.0\ref\ExpressiveWords.dll

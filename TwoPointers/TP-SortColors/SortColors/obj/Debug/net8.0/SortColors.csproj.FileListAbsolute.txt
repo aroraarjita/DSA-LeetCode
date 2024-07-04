@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\SortColors\SortColors\bin\Debug\net8.0\SortColors.exe
+C:\Users\arjit\source\repos\SortColors\SortColors\bin\Debug\net8.0\SortColors.deps.json
+C:\Users\arjit\source\repos\SortColors\SortColors\bin\Debug\net8.0\SortColors.runtimeconfig.json
+C:\Users\arjit\source\repos\SortColors\SortColors\bin\Debug\net8.0\SortColors.dll
+C:\Users\arjit\source\repos\SortColors\SortColors\bin\Debug\net8.0\SortColors.pdb
+C:\Users\arjit\source\repos\SortColors\SortColors\obj\Debug\net8.0\SortColors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\SortColors\SortColors\obj\Debug\net8.0\SortColors.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\SortColors\SortColors\obj\Debug\net8.0\SortColors.AssemblyInfo.cs
+C:\Users\arjit\source\repos\SortColors\SortColors\obj\Debug\net8.0\SortColors.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\SortColors\SortColors\obj\Debug\net8.0\SortColors.dll
+C:\Users\arjit\source\repos\SortColors\SortColors\obj\Debug\net8.0\refint\SortColors.dll
+C:\Users\arjit\source\repos\SortColors\SortColors\obj\Debug\net8.0\SortColors.pdb
+C:\Users\arjit\source\repos\SortColors\SortColors\obj\Debug\net8.0\SortColors.genruntimeconfig.cache
+C:\Users\arjit\source\repos\SortColors\SortColors\obj\Debug\net8.0\ref\SortColors.dll

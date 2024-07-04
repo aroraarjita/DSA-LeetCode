@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\StatisticsFromASample2\StatisticsFromASample2\bin\Debug\net8.0\StatisticsFromASample2.exe
+C:\Users\arjit\source\repos\StatisticsFromASample2\StatisticsFromASample2\bin\Debug\net8.0\StatisticsFromASample2.deps.json
+C:\Users\arjit\source\repos\StatisticsFromASample2\StatisticsFromASample2\bin\Debug\net8.0\StatisticsFromASample2.runtimeconfig.json
+C:\Users\arjit\source\repos\StatisticsFromASample2\StatisticsFromASample2\bin\Debug\net8.0\StatisticsFromASample2.dll
+C:\Users\arjit\source\repos\StatisticsFromASample2\StatisticsFromASample2\bin\Debug\net8.0\StatisticsFromASample2.pdb
+C:\Users\arjit\source\repos\StatisticsFromASample2\StatisticsFromASample2\obj\Debug\net8.0\StatisticsFromASample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\StatisticsFromASample2\StatisticsFromASample2\obj\Debug\net8.0\StatisticsFromASample2.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\StatisticsFromASample2\StatisticsFromASample2\obj\Debug\net8.0\StatisticsFromASample2.AssemblyInfo.cs
+C:\Users\arjit\source\repos\StatisticsFromASample2\StatisticsFromASample2\obj\Debug\net8.0\StatisticsFromASample2.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\StatisticsFromASample2\StatisticsFromASample2\obj\Debug\net8.0\StatisticsFromASample2.dll
+C:\Users\arjit\source\repos\StatisticsFromASample2\StatisticsFromASample2\obj\Debug\net8.0\refint\StatisticsFromASample2.dll
+C:\Users\arjit\source\repos\StatisticsFromASample2\StatisticsFromASample2\obj\Debug\net8.0\StatisticsFromASample2.pdb
+C:\Users\arjit\source\repos\StatisticsFromASample2\StatisticsFromASample2\obj\Debug\net8.0\StatisticsFromASample2.genruntimeconfig.cache
+C:\Users\arjit\source\repos\StatisticsFromASample2\StatisticsFromASample2\obj\Debug\net8.0\ref\StatisticsFromASample2.dll

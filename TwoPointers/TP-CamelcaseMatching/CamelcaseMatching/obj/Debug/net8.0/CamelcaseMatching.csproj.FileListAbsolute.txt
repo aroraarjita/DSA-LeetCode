@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\CamelcaseMatching\CamelcaseMatching\bin\Debug\net8.0\CamelcaseMatching.exe
+C:\Users\arjit\source\repos\CamelcaseMatching\CamelcaseMatching\bin\Debug\net8.0\CamelcaseMatching.deps.json
+C:\Users\arjit\source\repos\CamelcaseMatching\CamelcaseMatching\bin\Debug\net8.0\CamelcaseMatching.runtimeconfig.json
+C:\Users\arjit\source\repos\CamelcaseMatching\CamelcaseMatching\bin\Debug\net8.0\CamelcaseMatching.dll
+C:\Users\arjit\source\repos\CamelcaseMatching\CamelcaseMatching\bin\Debug\net8.0\CamelcaseMatching.pdb
+C:\Users\arjit\source\repos\CamelcaseMatching\CamelcaseMatching\obj\Debug\net8.0\CamelcaseMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\CamelcaseMatching\CamelcaseMatching\obj\Debug\net8.0\CamelcaseMatching.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\CamelcaseMatching\CamelcaseMatching\obj\Debug\net8.0\CamelcaseMatching.AssemblyInfo.cs
+C:\Users\arjit\source\repos\CamelcaseMatching\CamelcaseMatching\obj\Debug\net8.0\CamelcaseMatching.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\CamelcaseMatching\CamelcaseMatching\obj\Debug\net8.0\CamelcaseMatching.dll
+C:\Users\arjit\source\repos\CamelcaseMatching\CamelcaseMatching\obj\Debug\net8.0\refint\CamelcaseMatching.dll
+C:\Users\arjit\source\repos\CamelcaseMatching\CamelcaseMatching\obj\Debug\net8.0\CamelcaseMatching.pdb
+C:\Users\arjit\source\repos\CamelcaseMatching\CamelcaseMatching\obj\Debug\net8.0\CamelcaseMatching.genruntimeconfig.cache
+C:\Users\arjit\source\repos\CamelcaseMatching\CamelcaseMatching\obj\Debug\net8.0\ref\CamelcaseMatching.dll

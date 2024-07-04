@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\SubarrayProductLessThanK\SubarrayProductLessThanK\bin\Debug\net8.0\SubarrayProductLessThanK.exe
+C:\Users\arjit\source\repos\SubarrayProductLessThanK\SubarrayProductLessThanK\bin\Debug\net8.0\SubarrayProductLessThanK.deps.json
+C:\Users\arjit\source\repos\SubarrayProductLessThanK\SubarrayProductLessThanK\bin\Debug\net8.0\SubarrayProductLessThanK.runtimeconfig.json
+C:\Users\arjit\source\repos\SubarrayProductLessThanK\SubarrayProductLessThanK\bin\Debug\net8.0\SubarrayProductLessThanK.dll
+C:\Users\arjit\source\repos\SubarrayProductLessThanK\SubarrayProductLessThanK\bin\Debug\net8.0\SubarrayProductLessThanK.pdb
+C:\Users\arjit\source\repos\SubarrayProductLessThanK\SubarrayProductLessThanK\obj\Debug\net8.0\SubarrayProductLessThanK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\SubarrayProductLessThanK\SubarrayProductLessThanK\obj\Debug\net8.0\SubarrayProductLessThanK.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\SubarrayProductLessThanK\SubarrayProductLessThanK\obj\Debug\net8.0\SubarrayProductLessThanK.AssemblyInfo.cs
+C:\Users\arjit\source\repos\SubarrayProductLessThanK\SubarrayProductLessThanK\obj\Debug\net8.0\SubarrayProductLessThanK.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\SubarrayProductLessThanK\SubarrayProductLessThanK\obj\Debug\net8.0\SubarrayProductLessThanK.dll
+C:\Users\arjit\source\repos\SubarrayProductLessThanK\SubarrayProductLessThanK\obj\Debug\net8.0\refint\SubarrayProductLessThanK.dll
+C:\Users\arjit\source\repos\SubarrayProductLessThanK\SubarrayProductLessThanK\obj\Debug\net8.0\SubarrayProductLessThanK.pdb
+C:\Users\arjit\source\repos\SubarrayProductLessThanK\SubarrayProductLessThanK\obj\Debug\net8.0\SubarrayProductLessThanK.genruntimeconfig.cache
+C:\Users\arjit\source\repos\SubarrayProductLessThanK\SubarrayProductLessThanK\obj\Debug\net8.0\ref\SubarrayProductLessThanK.dll

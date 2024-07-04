@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\SwapAdjacentLRString\SwapAdjacentLRString\bin\Debug\net8.0\SwapAdjacentLRString.exe
+C:\Users\arjit\source\repos\SwapAdjacentLRString\SwapAdjacentLRString\bin\Debug\net8.0\SwapAdjacentLRString.deps.json
+C:\Users\arjit\source\repos\SwapAdjacentLRString\SwapAdjacentLRString\bin\Debug\net8.0\SwapAdjacentLRString.runtimeconfig.json
+C:\Users\arjit\source\repos\SwapAdjacentLRString\SwapAdjacentLRString\bin\Debug\net8.0\SwapAdjacentLRString.dll
+C:\Users\arjit\source\repos\SwapAdjacentLRString\SwapAdjacentLRString\bin\Debug\net8.0\SwapAdjacentLRString.pdb
+C:\Users\arjit\source\repos\SwapAdjacentLRString\SwapAdjacentLRString\obj\Debug\net8.0\SwapAdjacentLRString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\SwapAdjacentLRString\SwapAdjacentLRString\obj\Debug\net8.0\SwapAdjacentLRString.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\SwapAdjacentLRString\SwapAdjacentLRString\obj\Debug\net8.0\SwapAdjacentLRString.AssemblyInfo.cs
+C:\Users\arjit\source\repos\SwapAdjacentLRString\SwapAdjacentLRString\obj\Debug\net8.0\SwapAdjacentLRString.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\SwapAdjacentLRString\SwapAdjacentLRString\obj\Debug\net8.0\SwapAdjacentLRString.dll
+C:\Users\arjit\source\repos\SwapAdjacentLRString\SwapAdjacentLRString\obj\Debug\net8.0\refint\SwapAdjacentLRString.dll
+C:\Users\arjit\source\repos\SwapAdjacentLRString\SwapAdjacentLRString\obj\Debug\net8.0\SwapAdjacentLRString.pdb
+C:\Users\arjit\source\repos\SwapAdjacentLRString\SwapAdjacentLRString\obj\Debug\net8.0\SwapAdjacentLRString.genruntimeconfig.cache
+C:\Users\arjit\source\repos\SwapAdjacentLRString\SwapAdjacentLRString\obj\Debug\net8.0\ref\SwapAdjacentLRString.dll

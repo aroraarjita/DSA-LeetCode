@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\LongPressedName\LongPressedName\bin\Debug\net8.0\LongPressedName.exe
+C:\Users\arjit\source\repos\LongPressedName\LongPressedName\bin\Debug\net8.0\LongPressedName.deps.json
+C:\Users\arjit\source\repos\LongPressedName\LongPressedName\bin\Debug\net8.0\LongPressedName.runtimeconfig.json
+C:\Users\arjit\source\repos\LongPressedName\LongPressedName\bin\Debug\net8.0\LongPressedName.dll
+C:\Users\arjit\source\repos\LongPressedName\LongPressedName\bin\Debug\net8.0\LongPressedName.pdb
+C:\Users\arjit\source\repos\LongPressedName\LongPressedName\obj\Debug\net8.0\LongPressedName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\LongPressedName\LongPressedName\obj\Debug\net8.0\LongPressedName.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\LongPressedName\LongPressedName\obj\Debug\net8.0\LongPressedName.AssemblyInfo.cs
+C:\Users\arjit\source\repos\LongPressedName\LongPressedName\obj\Debug\net8.0\LongPressedName.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\LongPressedName\LongPressedName\obj\Debug\net8.0\LongPressedName.dll
+C:\Users\arjit\source\repos\LongPressedName\LongPressedName\obj\Debug\net8.0\refint\LongPressedName.dll
+C:\Users\arjit\source\repos\LongPressedName\LongPressedName\obj\Debug\net8.0\LongPressedName.pdb
+C:\Users\arjit\source\repos\LongPressedName\LongPressedName\obj\Debug\net8.0\LongPressedName.genruntimeconfig.cache
+C:\Users\arjit\source\repos\LongPressedName\LongPressedName\obj\Debug\net8.0\ref\LongPressedName.dll

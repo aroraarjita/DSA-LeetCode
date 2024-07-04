@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\SquaresofSortedArray\SquaresofSortedArray\bin\Debug\net8.0\SquaresofSortedArray.exe
+C:\Users\arjit\source\repos\SquaresofSortedArray\SquaresofSortedArray\bin\Debug\net8.0\SquaresofSortedArray.deps.json
+C:\Users\arjit\source\repos\SquaresofSortedArray\SquaresofSortedArray\bin\Debug\net8.0\SquaresofSortedArray.runtimeconfig.json
+C:\Users\arjit\source\repos\SquaresofSortedArray\SquaresofSortedArray\bin\Debug\net8.0\SquaresofSortedArray.dll
+C:\Users\arjit\source\repos\SquaresofSortedArray\SquaresofSortedArray\bin\Debug\net8.0\SquaresofSortedArray.pdb
+C:\Users\arjit\source\repos\SquaresofSortedArray\SquaresofSortedArray\obj\Debug\net8.0\SquaresofSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\SquaresofSortedArray\SquaresofSortedArray\obj\Debug\net8.0\SquaresofSortedArray.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\SquaresofSortedArray\SquaresofSortedArray\obj\Debug\net8.0\SquaresofSortedArray.AssemblyInfo.cs
+C:\Users\arjit\source\repos\SquaresofSortedArray\SquaresofSortedArray\obj\Debug\net8.0\SquaresofSortedArray.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\SquaresofSortedArray\SquaresofSortedArray\obj\Debug\net8.0\SquaresofSortedArray.dll
+C:\Users\arjit\source\repos\SquaresofSortedArray\SquaresofSortedArray\obj\Debug\net8.0\refint\SquaresofSortedArray.dll
+C:\Users\arjit\source\repos\SquaresofSortedArray\SquaresofSortedArray\obj\Debug\net8.0\SquaresofSortedArray.pdb
+C:\Users\arjit\source\repos\SquaresofSortedArray\SquaresofSortedArray\obj\Debug\net8.0\SquaresofSortedArray.genruntimeconfig.cache
+C:\Users\arjit\source\repos\SquaresofSortedArray\SquaresofSortedArray\obj\Debug\net8.0\ref\SquaresofSortedArray.dll

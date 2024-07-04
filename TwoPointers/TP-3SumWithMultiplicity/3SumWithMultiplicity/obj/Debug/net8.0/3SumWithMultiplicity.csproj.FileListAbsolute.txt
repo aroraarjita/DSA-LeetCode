@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\3SumWithMultiplicity\3SumWithMultiplicity\bin\Debug\net8.0\3SumWithMultiplicity.exe
+C:\Users\arjit\source\repos\3SumWithMultiplicity\3SumWithMultiplicity\bin\Debug\net8.0\3SumWithMultiplicity.deps.json
+C:\Users\arjit\source\repos\3SumWithMultiplicity\3SumWithMultiplicity\bin\Debug\net8.0\3SumWithMultiplicity.runtimeconfig.json
+C:\Users\arjit\source\repos\3SumWithMultiplicity\3SumWithMultiplicity\bin\Debug\net8.0\3SumWithMultiplicity.dll
+C:\Users\arjit\source\repos\3SumWithMultiplicity\3SumWithMultiplicity\bin\Debug\net8.0\3SumWithMultiplicity.pdb
+C:\Users\arjit\source\repos\3SumWithMultiplicity\3SumWithMultiplicity\obj\Debug\net8.0\3SumWithMultiplicity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\3SumWithMultiplicity\3SumWithMultiplicity\obj\Debug\net8.0\3SumWithMultiplicity.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\3SumWithMultiplicity\3SumWithMultiplicity\obj\Debug\net8.0\3SumWithMultiplicity.AssemblyInfo.cs
+C:\Users\arjit\source\repos\3SumWithMultiplicity\3SumWithMultiplicity\obj\Debug\net8.0\3SumWithMultiplicity.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\3SumWithMultiplicity\3SumWithMultiplicity\obj\Debug\net8.0\3SumWithMultiplicity.dll
+C:\Users\arjit\source\repos\3SumWithMultiplicity\3SumWithMultiplicity\obj\Debug\net8.0\refint\3SumWithMultiplicity.dll
+C:\Users\arjit\source\repos\3SumWithMultiplicity\3SumWithMultiplicity\obj\Debug\net8.0\3SumWithMultiplicity.pdb
+C:\Users\arjit\source\repos\3SumWithMultiplicity\3SumWithMultiplicity\obj\Debug\net8.0\3SumWithMultiplicity.genruntimeconfig.cache
+C:\Users\arjit\source\repos\3SumWithMultiplicity\3SumWithMultiplicity\obj\Debug\net8.0\ref\3SumWithMultiplicity.dll

@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\FriendsOfAppropriateAges\FriendsOfAppropriateAges\bin\Debug\net8.0\FriendsOfAppropriateAges.exe
+C:\Users\arjit\source\repos\FriendsOfAppropriateAges\FriendsOfAppropriateAges\bin\Debug\net8.0\FriendsOfAppropriateAges.deps.json
+C:\Users\arjit\source\repos\FriendsOfAppropriateAges\FriendsOfAppropriateAges\bin\Debug\net8.0\FriendsOfAppropriateAges.runtimeconfig.json
+C:\Users\arjit\source\repos\FriendsOfAppropriateAges\FriendsOfAppropriateAges\bin\Debug\net8.0\FriendsOfAppropriateAges.dll
+C:\Users\arjit\source\repos\FriendsOfAppropriateAges\FriendsOfAppropriateAges\bin\Debug\net8.0\FriendsOfAppropriateAges.pdb
+C:\Users\arjit\source\repos\FriendsOfAppropriateAges\FriendsOfAppropriateAges\obj\Debug\net8.0\FriendsOfAppropriateAges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\FriendsOfAppropriateAges\FriendsOfAppropriateAges\obj\Debug\net8.0\FriendsOfAppropriateAges.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\FriendsOfAppropriateAges\FriendsOfAppropriateAges\obj\Debug\net8.0\FriendsOfAppropriateAges.AssemblyInfo.cs
+C:\Users\arjit\source\repos\FriendsOfAppropriateAges\FriendsOfAppropriateAges\obj\Debug\net8.0\FriendsOfAppropriateAges.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\FriendsOfAppropriateAges\FriendsOfAppropriateAges\obj\Debug\net8.0\FriendsOfAppropriateAges.dll
+C:\Users\arjit\source\repos\FriendsOfAppropriateAges\FriendsOfAppropriateAges\obj\Debug\net8.0\refint\FriendsOfAppropriateAges.dll
+C:\Users\arjit\source\repos\FriendsOfAppropriateAges\FriendsOfAppropriateAges\obj\Debug\net8.0\FriendsOfAppropriateAges.pdb
+C:\Users\arjit\source\repos\FriendsOfAppropriateAges\FriendsOfAppropriateAges\obj\Debug\net8.0\FriendsOfAppropriateAges.genruntimeconfig.cache
+C:\Users\arjit\source\repos\FriendsOfAppropriateAges\FriendsOfAppropriateAges\obj\Debug\net8.0\ref\FriendsOfAppropriateAges.dll

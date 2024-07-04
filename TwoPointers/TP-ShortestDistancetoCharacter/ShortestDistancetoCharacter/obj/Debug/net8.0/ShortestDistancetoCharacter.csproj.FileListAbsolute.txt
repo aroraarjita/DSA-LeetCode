@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\ShortestDistancetoCharacter\ShortestDistancetoCharacter\bin\Debug\net8.0\ShortestDistancetoCharacter.exe
+C:\Users\arjit\source\repos\ShortestDistancetoCharacter\ShortestDistancetoCharacter\bin\Debug\net8.0\ShortestDistancetoCharacter.deps.json
+C:\Users\arjit\source\repos\ShortestDistancetoCharacter\ShortestDistancetoCharacter\bin\Debug\net8.0\ShortestDistancetoCharacter.runtimeconfig.json
+C:\Users\arjit\source\repos\ShortestDistancetoCharacter\ShortestDistancetoCharacter\bin\Debug\net8.0\ShortestDistancetoCharacter.dll
+C:\Users\arjit\source\repos\ShortestDistancetoCharacter\ShortestDistancetoCharacter\bin\Debug\net8.0\ShortestDistancetoCharacter.pdb
+C:\Users\arjit\source\repos\ShortestDistancetoCharacter\ShortestDistancetoCharacter\obj\Debug\net8.0\ShortestDistancetoCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\ShortestDistancetoCharacter\ShortestDistancetoCharacter\obj\Debug\net8.0\ShortestDistancetoCharacter.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\ShortestDistancetoCharacter\ShortestDistancetoCharacter\obj\Debug\net8.0\ShortestDistancetoCharacter.AssemblyInfo.cs
+C:\Users\arjit\source\repos\ShortestDistancetoCharacter\ShortestDistancetoCharacter\obj\Debug\net8.0\ShortestDistancetoCharacter.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\ShortestDistancetoCharacter\ShortestDistancetoCharacter\obj\Debug\net8.0\ShortestDistancetoCharacter.dll
+C:\Users\arjit\source\repos\ShortestDistancetoCharacter\ShortestDistancetoCharacter\obj\Debug\net8.0\refint\ShortestDistancetoCharacter.dll
+C:\Users\arjit\source\repos\ShortestDistancetoCharacter\ShortestDistancetoCharacter\obj\Debug\net8.0\ShortestDistancetoCharacter.pdb
+C:\Users\arjit\source\repos\ShortestDistancetoCharacter\ShortestDistancetoCharacter\obj\Debug\net8.0\ShortestDistancetoCharacter.genruntimeconfig.cache
+C:\Users\arjit\source\repos\ShortestDistancetoCharacter\ShortestDistancetoCharacter\obj\Debug\net8.0\ref\ShortestDistancetoCharacter.dll

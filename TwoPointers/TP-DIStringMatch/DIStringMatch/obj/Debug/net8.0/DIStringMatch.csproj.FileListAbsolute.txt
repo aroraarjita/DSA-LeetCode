@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\DIStringMatch\DIStringMatch\bin\Debug\net8.0\DIStringMatch.exe
+C:\Users\arjit\source\repos\DIStringMatch\DIStringMatch\bin\Debug\net8.0\DIStringMatch.deps.json
+C:\Users\arjit\source\repos\DIStringMatch\DIStringMatch\bin\Debug\net8.0\DIStringMatch.runtimeconfig.json
+C:\Users\arjit\source\repos\DIStringMatch\DIStringMatch\bin\Debug\net8.0\DIStringMatch.dll
+C:\Users\arjit\source\repos\DIStringMatch\DIStringMatch\bin\Debug\net8.0\DIStringMatch.pdb
+C:\Users\arjit\source\repos\DIStringMatch\DIStringMatch\obj\Debug\net8.0\DIStringMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\DIStringMatch\DIStringMatch\obj\Debug\net8.0\DIStringMatch.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\DIStringMatch\DIStringMatch\obj\Debug\net8.0\DIStringMatch.AssemblyInfo.cs
+C:\Users\arjit\source\repos\DIStringMatch\DIStringMatch\obj\Debug\net8.0\DIStringMatch.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\DIStringMatch\DIStringMatch\obj\Debug\net8.0\DIStringMatch.dll
+C:\Users\arjit\source\repos\DIStringMatch\DIStringMatch\obj\Debug\net8.0\refint\DIStringMatch.dll
+C:\Users\arjit\source\repos\DIStringMatch\DIStringMatch\obj\Debug\net8.0\DIStringMatch.pdb
+C:\Users\arjit\source\repos\DIStringMatch\DIStringMatch\obj\Debug\net8.0\DIStringMatch.genruntimeconfig.cache
+C:\Users\arjit\source\repos\DIStringMatch\DIStringMatch\obj\Debug\net8.0\ref\DIStringMatch.dll

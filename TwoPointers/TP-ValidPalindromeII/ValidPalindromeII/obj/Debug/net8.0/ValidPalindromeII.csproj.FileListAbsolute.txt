@@ -1,0 +1,14 @@
+C:\Users\arjit\source\repos\ValidPalindromeII\ValidPalindromeII\bin\Debug\net8.0\ValidPalindromeII.exe
+C:\Users\arjit\source\repos\ValidPalindromeII\ValidPalindromeII\bin\Debug\net8.0\ValidPalindromeII.deps.json
+C:\Users\arjit\source\repos\ValidPalindromeII\ValidPalindromeII\bin\Debug\net8.0\ValidPalindromeII.runtimeconfig.json
+C:\Users\arjit\source\repos\ValidPalindromeII\ValidPalindromeII\bin\Debug\net8.0\ValidPalindromeII.dll
+C:\Users\arjit\source\repos\ValidPalindromeII\ValidPalindromeII\bin\Debug\net8.0\ValidPalindromeII.pdb
+C:\Users\arjit\source\repos\ValidPalindromeII\ValidPalindromeII\obj\Debug\net8.0\ValidPalindromeII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjit\source\repos\ValidPalindromeII\ValidPalindromeII\obj\Debug\net8.0\ValidPalindromeII.AssemblyInfoInputs.cache
+C:\Users\arjit\source\repos\ValidPalindromeII\ValidPalindromeII\obj\Debug\net8.0\ValidPalindromeII.AssemblyInfo.cs
+C:\Users\arjit\source\repos\ValidPalindromeII\ValidPalindromeII\obj\Debug\net8.0\ValidPalindromeII.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\ValidPalindromeII\ValidPalindromeII\obj\Debug\net8.0\ValidPalindromeII.dll
+C:\Users\arjit\source\repos\ValidPalindromeII\ValidPalindromeII\obj\Debug\net8.0\refint\ValidPalindromeII.dll
+C:\Users\arjit\source\repos\ValidPalindromeII\ValidPalindromeII\obj\Debug\net8.0\ValidPalindromeII.pdb
+C:\Users\arjit\source\repos\ValidPalindromeII\ValidPalindromeII\obj\Debug\net8.0\ValidPalindromeII.genruntimeconfig.cache
+C:\Users\arjit\source\repos\ValidPalindromeII\ValidPalindromeII\obj\Debug\net8.0\ref\ValidPalindromeII.dll
